@@ -22,4 +22,4 @@ Este es un proyecto web simple para convertir temperaturas entre Celsius, Fahren
 
 ## Autora
 
-Debora Alejandra Garcia Cruz 
+Débora Alejandra Garcia Cruz 
