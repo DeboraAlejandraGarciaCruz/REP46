@@ -1,6 +1,6 @@
 # Conversor de Unidades de Temperatura
 
-Este es un proyecto web simple para convertir temperaturas entre Celsius, Fahrenheit y Kelvin. 12
+Este es un proyecto web simple para convertir temperaturas entre Celsius, Fahrenheit y Kelvin.
 
 ## Funcionalidades
 
