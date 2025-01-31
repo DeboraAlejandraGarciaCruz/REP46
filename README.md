@@ -20,6 +20,6 @@ Este es un proyecto web simple para convertir temperaturas entre Celsius, Fahren
 - `styles.css`: Contiene los estilos de la aplicación.
 - `script.js`: Contiene la lógica de conversión de temperaturas y la validación.
 
-## Autor
+## Autora
 
 Debora Alejandra Garcia Cruz 
