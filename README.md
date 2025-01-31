@@ -6,7 +6,7 @@ Este es un proyecto web simple para convertir temperaturas entre Celsius, Fahren
 
 - **Entrada de temperatura**: El usuario introduce un valor en una de las tres unidades (Celsius, Fahrenheit o Kelvin).
 - **Conversión automática**: Al introducir una temperatura en una unidad, se actualizan las otras dos unidades.
-- **Validación de datos**: Si el valor ingresado no es válido, se muestra un mensaje de error.
+- **Validación de datos**: Si el valor ingresado no es válido, se muestra un mensaje de error.. 
 
 ## Cómo usar
 
